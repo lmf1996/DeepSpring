@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/DeepSpring.iml" filepath="$PROJECT_DIR$/.idea/DeepSpring.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-server/common-server.iml" filepath="$PROJECT_DIR$/common-server/common-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json2json/json2json.iml" filepath="$PROJECT_DIR$/json2json/json2json.iml" />
       <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
     </modules>
   </component>

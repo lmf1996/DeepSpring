@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="common-server" />
         <module name="eureka" />
+        <module name="json2json" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="common-server" target="1.8" />
       <module name="eureka" target="1.8" />
+      <module name="json2json" target="1.8" />
       <module name="parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>

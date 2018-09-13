@@ -7,11 +7,11 @@ public class SimpleUserInfoProperties {
     private String name;
     private String age;
 
-    public String getName() {
+    public String getMyName() {
         return name;
     }
 
-    public void setName(String name) {
+    public void setMyName(String name) {
         this.name = name;
     }
 
@@ -21,5 +21,13 @@ public class SimpleUserInfoProperties {
 
     public void setAge(String age) {
         this.age = age;
+    }
+
+    @Override
+    public String toString() {
+        return "SimpleUserInfoProperties{" +
+                "name='" + name + '\'' +
+                ", age='" + age + '\'' +
+                '}';
     }
 }

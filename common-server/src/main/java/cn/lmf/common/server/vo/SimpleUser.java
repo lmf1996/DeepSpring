@@ -1,5 +1,7 @@
 package cn.lmf.common.server.vo;
 
+import org.springframework.stereotype.Component;
+
 public class SimpleUser {
     private String name;
     private String age;

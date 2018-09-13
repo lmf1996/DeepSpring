@@ -9,5 +9,5 @@ server:
   port: 8081
 
 user:
-  age: 22
-  name: lmf
+  age: 23
+  myName: sadsasa

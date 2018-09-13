@@ -1,0 +1,10 @@
+
+Œsquid:UselessImportCheck	"\Remove this unused import 'org.springframework.cloud.netflix.eureka.EurekaClientConfigBean'.(é¤Ê©ıÿÿÿÿ8²Ô‡Ü,
+rsquid:UselessImportCheck"BRemove this unused import 'com.netflix.discovery.DiscoveryClient'.(îƒÉ£úÿÿÿÿ8²Ô‡Ü,
+’squid:UselessImportCheck"bRemove this unused import 'org.springframework.cloud.netflix.eureka.server.EurekaServerBootstrap'.(ãÚşÿÿÿÿ8²Ô‡Ü,
+“squid:UselessImportCheck"cRemove this unused import 'org.springframework.cloud.netflix.eureka.server.EurekaServerConfigBean'.(¡‡äÜüÿÿÿÿ8²Ô‡Ü,
+zsquid:UselessImportCheck"JRemove this unused import 'com.netflix.eureka.DefaultEurekaServerContext'.(¬–ìïûÿÿÿÿ8°â¹Ü,
+osquid:UselessImportCheck"?Remove this unused import 'com.netflix.discovery.EurekaClient'.(Í–¦ªşÿÿÿÿ8°â¹Ü,
+„squid:UselessImportCheck
+"YRemove this unused import 'org.springframework.cloud.netflix.eureka.InstanceInfoFactory'.(şÃË8°â¹Ü,
+rsquid:UselessImportCheck"BRemove this unused import 'com.netflix.eureka.EurekaServerConfig'.(÷Ä¤¸úÿÿÿÿ8°â¹Ü,
